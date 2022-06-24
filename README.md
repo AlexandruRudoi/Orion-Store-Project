@@ -1,4 +1,4 @@
-## <p align="center"><a href="https://alexandrurudoi.github.io/Personal-Site/"><img src="https://barcamp-kiel.de/wp-content/uploads/2017/06/orion.png" alt="logo" width="150px" border="0"></a></p>Orion Store
+## <p align="center"><a href="https://alexandrurudoi.github.io/Personal-Site/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Orion-Oyj-Logo.svg" alt="logo" width="150px" border="0"></a></p>Orion Store
 
 **Orion Store** is a school project made from the knowledge acquired strictly in the course, without js and responsive.
 
