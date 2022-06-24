@@ -2,7 +2,7 @@
 
 **Orion Store** is a school project made from the knowledge acquired strictly in the course, without js and responsive.
 
-> <p><a href="https://alexandrurudoi.github.io/Personal-Site/">Personal Site</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ralexhp25/">Instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+> <p><a href="https://alexandrurudoi.github.io/Orion-Store-Project/">Orion Store</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ralexhp25/">Instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 ---
 
@@ -16,7 +16,6 @@
   * Positioning
   * Display
   * Box Model
-+ Code with accessibility
 + Conventions & Best Practices
 + Semantic Elements
 + Search engine optimization
