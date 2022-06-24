@@ -16,7 +16,6 @@
   * Positioning
   * Display
   * Box Model
-+ Responsive design & Media Queries
 + Code with accessibility
 + Conventions & Best Practices
 + Semantic Elements
