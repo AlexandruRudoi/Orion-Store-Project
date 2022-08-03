@@ -18,7 +18,6 @@
   * Box Model
 + Conventions & Best Practices
 + Semantic Elements
-+ Search engine optimization
 
 ---
 
